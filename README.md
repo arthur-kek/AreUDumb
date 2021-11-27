@@ -1,6 +1,19 @@
 # AreUDumb
-Instal Java JDK and set the environment variables.
-Then open cmd inside the project directory and run following command:
- javac GUI.java JFrameWindow.java
-And then run:
- java GUI 
+
+It's a meme application for triggering TikTok users.
+
+## Requirements
+
+JDK and configured environment variables.
+
+## Compilation
+
+```bash
+javac GUI.java JFrameWindow.java
+```
+
+## How to run it
+
+```bash
+java GUI 
+```
